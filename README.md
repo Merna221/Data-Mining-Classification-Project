@@ -57,7 +57,4 @@ Trained and evaluated the following models:
 ## 💾 Exported Output
 - Cleaned dataset exported to: `Mine_Cleaned_Data.xlsx`
 
----
-
-## 📁 Project Structure
 
